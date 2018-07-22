@@ -12,7 +12,7 @@
       "email": "lionel.faveur@gmail.com"
     }
   ],
-  "minimum-stability": "dev-master",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Cyprus\\Hello\\": "src/Controller"
